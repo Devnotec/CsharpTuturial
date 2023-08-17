@@ -17,17 +17,17 @@
  <br/>
 
 <div>
-  ✅ <div><a href="https://youtu.be/zDQRnHvmZlA">قسمت 1 : دات نت کور چگونه متولد شد</a></div>
+   <div>✅<a href="https://youtu.be/zDQRnHvmZlA">قسمت 1 : دات نت کور چگونه متولد شد</a></div>
    <br/>
-  ✅ <div><a href="https://youtu.be/rYfxCLGfRvE">قسمت 2 : مفهوم الگوریتم الگوریتم چیست ؟</a></div>
+  <div>✅<a href="https://youtu.be/rYfxCLGfRvE">قسمت 2 : مفهوم الگوریتم الگوریتم چیست ؟</a></div>
    <br/>
-  ✅ <div><a href="https://youtu.be/1kCOPSMj4xQ">قسمت 3.1 : محیط توسعه و تفاوت IDE و Code Editor</a></div>
+  <div>✅<a href="https://youtu.be/1kCOPSMj4xQ">قسمت 3.1 : محیط توسعه و تفاوت IDE و Code Editor</a></div>
 
   <br/>
-  ✅ <div><a href="https://youtu.be/1WgERmW9ALM">قسمت 3.2 : نصب ویرژوال استودیودر ویندوز</a></div>
+  <div>✅<a href="https://youtu.be/1WgERmW9ALM">قسمت 3.2 : نصب ویرژوال استودیودر ویندوز</a></div>
 
    <br/>
-  ✅ <div><a href="https://youtu.be/Kr2hCtzZono">قسمت 3.3 : نصب دات نت در لینوکس</a></div>
+  <div>✅<a href="https://youtu.be/Kr2hCtzZono">قسمت 3.3 : نصب دات نت در لینوکس</a></div>
 
   <br/>
   ✅ <div><a href="https://youtu.be/T7n5vzqHhqQ">قسمت 4.1 : معرفی و استفاده از آرایه ها</a></div>
