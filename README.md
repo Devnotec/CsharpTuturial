@@ -415,10 +415,6 @@
 
 
   <br/>
-  <div><a href="#">رویدادها در Windows Forms</a></div>
-
-
-  <br/>
   <div><a href="#">Windows Forms - عناصر اولیه رابط کاربری</a></div>
 
 
@@ -454,6 +450,9 @@
 
    <br/>
   <div><a href="#">ساخت کنترل های سفارشی</a></div>
+
+  <br/>
+  <div><a href="#">رویدادها در Windows Forms</a></div>
 
   
   
