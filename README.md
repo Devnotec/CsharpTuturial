@@ -30,7 +30,8 @@
   <div>✅<a href="https://youtu.be/Kr2hCtzZono">قسمت 3.3 : نصب دات نت در لینوکس</a></div>
 
   <br/>
-  ✅ <div><a href="https://youtu.be/T7n5vzqHhqQ">قسمت 4.1 : معرفی و استفاده از آرایه ها</a></div>
+  <div>✅<a href="https://youtu.be/T7n5vzqHhqQ">قسمت 4.1 : معرفی و استفاده از آرایه ها</a></div>
+  
 
   
   <br/>
