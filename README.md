@@ -109,6 +109,50 @@
    <br/>
   <div><a href="#">قسمت 7.1 : متد ها - متد های non void</a></div>
 
+   <br/>
+  <div><a href="#">قسمت 7.2 : متد ها - معرفی و استفاده  و کاربرد اکستنشن متد ها</a></div>
+
+
+   <br/>
+  <div><a href="#">قسمت 7.2 : متد ها - پارامتر ها در متد ها و انواع آن ها</a></div>
+
+   <br/>
+  <div><a href="#">قسمت 8 : رشته ها - معرفی رشته ها</a></div>
+
+   <br/>
+  <div><a href="#">قسمت 8.1 : رشته ها - کار با متد Concat</a></div>
+
+   <br/>
+  <div><a href="#">قسمت 8.2 : رشته ها - کار با متد Equals</a></div>
+
+   <br/>
+  <div><a href="#"> قسمت 8.3 : String interpolation</a></div>
+
+  <br/>
+  <div><a href="#">قسمت 8.4 : کار با متد Format</a></div>
+
+  <br/>
+  <div><a href="#">قسمت 8.5 : کار با متد Split</a></div>
+
+  <br/>
+  <div><a href="#">قسمت 8.6 : کار با متد Replace</a></div>
+
+   <br/>
+  <div><a href="#">قسمت 8.7 : کار با متد Contains</a></div>
+
+   <br/>
+  <div><a href="#">قسمت 8.8 : کار با متد Trim</a></div>
+
+   <br/>
+  <div><a href="#">قسمت 8.10 : کار با متد IndexOf</a></div>
+
+   <br/>
+  <div><a href="#">قسمت 8.11 : کار با متد ToUpper</a></div>
+
+   <br/>
+  <div><a href="#">قسمت 8.12 : کار با متد ToLower</a></div>
+
+
  
   
 </div>
