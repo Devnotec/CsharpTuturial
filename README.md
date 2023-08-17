@@ -174,6 +174,12 @@
    <br/>
   <div><a href="#">قسمت 9.5 :کالکشن ها -  کار با Stack</a></div>
 
+   <br/>
+  <div><a href="#">قسمت 10 : معرفی کلید واژه out </a></div>
+
+   <br/>
+  <div><a href="#">استفاده از Try Parse به همراه out</a></div>
+
   
 
 
