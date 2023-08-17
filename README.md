@@ -190,6 +190,18 @@
    <br/>
   <div><a href="#">پروژه ساخت یک تودو لیست</a></div>
 
+ <br/>
+  <div><a href="#">کار با فایل ها در سی شارپ</a></div>
+
+ <br/>
+  <div><a href="#">معرفی کلاس StreamReader</a></div>
+
+ <br/>
+  <div><a href="#">معرفی کلاس StreamWriter</a></div>
+
+ <br/>
+  <div><a href="#">معرفی کلاس File </a></div>
+
   
   <br/>
   <div><a href="#">آشنایی با برنامه نویسی شی گرا (OOP)</a></div>
@@ -255,28 +267,14 @@
   <div><a href="#">کلاس Person</a></div>
 
 
-  <br/>
-  <div><a href="#">اعتبارسنجی پارامترهای constructor</a></div>
-
-
+ 
   <br/>
   <div><a href="#">Readonly و const</a></div>
 
 
   <br/>
-  <div><a href="#">ویژگی های کلاس Order</a></div>
+  <div><a href="#">مقداردهی آبجکت ها</a></div>
 
-
-  <br/>
-  <div><a href="#">مقداردهی اولیه آبجکت</a></div>
-
-
-  <br/>
-  <div><a href="#">ویژگی های محاسباتی</a></div>
-
-
-  <br/>
-  <div><a href="#">ویژگی های محاسباتی - کلاس DailyAccountState</a></div>
 
 
   <br/>
@@ -284,29 +282,11 @@
 
 
   <br/>
-  <div><a href="#">فیلدهای استاتیک، ویژگی ها و constructors</a></div>
-
-
-
-
-  <br/>
-  <div><a href="#">فایل ها، فضاهای نام و استفاده از دایرکتیو</a></div>
-
-
-  <br/>
-  <div><a href="#">گلوبال با استفاده از دایرکتیوها</a></div>
-
-
-  <br/>
-  <div><a href="#">نیاز به پلی مورفیسم</a></div>
-
-
-  <br/>
   <div><a href="#">وراثت</a></div>
 
 
   <br/>
-  <div><a href="#">ارث بری اعضا از کلاس پایه - مودیفایر دسترسی محافظت شده</a></div>
+  <div><a href="#">ارث بری اعضا از کلاس پایه - مودیفایر protected</a></div>
 
 
   <br/>
@@ -314,22 +294,10 @@
 
 
   <br/>
-  <div><a href="#">Overriding اعضا از کلاس پایه - متدها و ویژگی های مجازی</a></div>
+  <div><a href="#">Overriding اعضا از کلاس پایه - متدها و پراپرتی  ها</a></div>
 
 
-  <br/>
-  <div><a href="#">متدهای مجازی - تمرین</a></div>
-
-
-  <br/>
-  <div><a href="#">وراثت و Overriding - حیوانات</a></div>
-
-
-  <br/>
-  <div><a href="#">متدهای مجازی - کلاس های StringsProcessor</a></div>
-
-
-
+  <div><a href="#">وراثت و Overriding - animals</a></div>
 
 
   <br/>
