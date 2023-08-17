@@ -318,6 +318,8 @@
   <div><a href="#">کار با json به وسیله System.Text.Json در دات نت</a></div>
 
 
+<br/>
+  <div><a href="#">مبانی LINQ</a></div>
 
 
   <br/>
@@ -332,13 +334,10 @@
   <div><a href="#">LINQ و &lt;IEnumerable&lt;T و زنجیره سازی متد</a></div>
 
 
-  <br/>
-  <div><a href="#">اجرای معوق</a></div>
+ 
 
 
-  <br/>
-  <div><a href="#">مبانی LINQ</a></div>
-
+  
 
   <br/>
   <div><a href="#">Any</a></div>
@@ -423,7 +422,40 @@
   <div><a href="#">Windows Forms - عناصر اولیه رابط کاربری</a></div>
 
 
- 
+   <br/>
+  <div><a href="#">تایمر و استفاده از تایمر</a></div>
+
+   <br/>
+  <div><a href="#">ساخت و استفاده از Timer به صورت کد</a></div>
+
+ <br/>
+  <div><a href="#">استفاده از Button ها</a></div>
+
+   <br/>
+  <div><a href="#">استفاده از TextBox</a></div>
+
+   <br/>
+  <div><a href="#">استفاده از ListBox</a></div>
+
+   <br/>
+  <div><a href="#">استفاده از Combobox</a></div>
+
+   <br/>
+  <div><a href="#">استفاده از Radio Button</a></div>
+
+   <br/>
+  <div><a href="#">استفاده از CheckBox</a></div>
+
+   <br/>
+  <div><a href="#">استفاده از ListView</a></div>
+
+   <br/>
+  <div><a href="#">پروژه ساخت  bmi calculator</a></div>
+
+   <br/>
+  <div><a href="#">ساخت کنترل های سفارشی</a></div>
+
+  
   
 </div>
 
