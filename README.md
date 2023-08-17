@@ -191,7 +191,267 @@
   <div><a href="#">پروژه ساخت یک تودو لیست</a></div>
 
   
+  <br/>
+  <div><a href="#">آشنایی با برنامه نویسی شی گرا (OOP)</a></div>
 
+<br/>
+  <div><a href="#">تفکر شی گرایی</a></div>
+
+  <br/>
+  <div><a href="#">درک OOP با نوع DateTime</a></div>
+
+
+  <br/>
+  <div><a href="#">مبانی OOP</a></div>
+
+
+  <br/>
+  <div><a href="#">مفهوم انتزاع در برنامه نویسی شی گرا</a></div>
+
+
+  <br/>
+  <div><a href="#">معرفی کلاس ها و ایجاد اولین کلاس</a></div>
+
+  <br/>
+  <div><a href="#">مبانی کلاس ها</a></div>
+
+   <br/>
+  <div><a href="#">افزودن متدها به کلاس ها</a></div>
+
+ <br/>
+  <div><a href="#">مفهوم کپسوله سازی</a></div>
+
+  <br/>
+  <div><a href="#">مفهوم access modifier و معرفی کلید واژه internal private static و protectd</a></div>
+
+
+  <br/>
+  <div><a href="#">constructor در کلاس ها</a></div>
+
+
+  <br/>
+  <div><a href="#">تمرین : کلاس رزرو هتل</a></div>
+
+
+  <br/>
+  <div><a href="#">کلاس Math کار با توابع ریاضی</a></div>
+
+
+  <br/>
+  <div><a href="#">overloading متدها و معرفی abstract کلاس ها</a></div>
+
+
+
+
+  <br/>
+  <div><a href="#">کلیدواژه "this" در کلاس ها</a></div>
+
+
+  <br/>
+  <div><a href="#">پارامترهای اختیاری</a></div>
+
+
+  <br/>
+  <div><a href="#">کلاس Person</a></div>
+
+
+  <br/>
+  <div><a href="#">اعتبارسنجی پارامترهای constructor</a></div>
+
+
+  <br/>
+  <div><a href="#">Readonly و const</a></div>
+
+
+  <br/>
+  <div><a href="#">ویژگی های کلاس Order</a></div>
+
+
+  <br/>
+  <div><a href="#">مقداردهی اولیه آبجکت</a></div>
+
+
+  <br/>
+  <div><a href="#">ویژگی های محاسباتی</a></div>
+
+
+  <br/>
+  <div><a href="#">ویژگی های محاسباتی - کلاس DailyAccountState</a></div>
+
+
+  <br/>
+  <div><a href="#">متدها و کلاس های استاتیک</a></div>
+
+
+  <br/>
+  <div><a href="#">فیلدهای استاتیک، ویژگی ها و constructors</a></div>
+
+
+
+
+  <br/>
+  <div><a href="#">فایل ها، فضاهای نام و استفاده از دایرکتیو</a></div>
+
+
+  <br/>
+  <div><a href="#">گلوبال با استفاده از دایرکتیوها</a></div>
+
+
+  <br/>
+  <div><a href="#">نیاز به پلی مورفیسم</a></div>
+
+
+  <br/>
+  <div><a href="#">وراثت</a></div>
+
+
+  <br/>
+  <div><a href="#">ارث بری اعضا از کلاس پایه - مودیفایر دسترسی محافظت شده</a></div>
+
+
+  <br/>
+  <div><a href="#">مبانی پلی مورفیسم</a></div>
+
+
+  <br/>
+  <div><a href="#">Overriding اعضا از کلاس پایه - متدها و ویژگی های مجازی</a></div>
+
+
+  <br/>
+  <div><a href="#">متدهای مجازی - تمرین</a></div>
+
+
+  <br/>
+  <div><a href="#">وراثت و Overriding - حیوانات</a></div>
+
+
+  <br/>
+  <div><a href="#">متدهای مجازی - کلاس های StringsProcessor</a></div>
+
+
+
+
+
+  <br/>
+  <div><a href="#">معرفی Interfase ها</a></div>
+
+
+  <br/>
+  <div><a href="#">Interfase - اعمال تبدیل های چندگانه به یک عدد</a></div>
+
+
+  <br/>
+  <div><a href="#">Interfase در مقابل کلاس های انتزاعی</a></div>
+
+
+
+  <br/>
+  <div><a href="#">کار با json به وسیله System.Text.Json در دات نت</a></div>
+
+
+
+
+  <br/>
+  <div><a href="#">LINQ چیست؟</a></div>
+
+
+  <br/>
+  <div><a href="#">LINQ و متدهای افزونه</a></div>
+
+
+  <br/>
+  <div><a href="#">LINQ و &lt;IEnumerable&lt;T و زنجیره سازی متد</a></div>
+
+
+  <br/>
+  <div><a href="#">اجرای معوق</a></div>
+
+
+  <br/>
+  <div><a href="#">مبانی LINQ</a></div>
+
+
+  <br/>
+  <div><a href="#">Any</a></div>
+
+
+  <br/>
+  <div><a href="#">All</a></div>
+
+
+  <br/>
+  <div><a href="#">Any و All</a></div>
+
+
+  <br/>
+  <div><a href="#">Count</a></div>
+
+
+  <br/>
+  <div><a href="#">Contains</a></div>
+
+
+  <br/>
+  <div><a href="#">Count و Contains</a></div>
+
+
+  <br/>
+  <div><a href="#">OrderBy</a></div>
+
+
+  <br/>
+  <div><a href="#">First و Last</a></div>
+
+
+  <br/>
+  <div><a href="#">OrderBy و First و Last</a></div>
+
+
+  <br/>
+  <div><a href="#">Where</a></div>
+
+
+  <br/>
+  <div><a href="#">Distinct</a></div>
+
+
+  <br/>
+  <div><a href="#">Where و Distinct</a></div>
+
+
+  <br/>
+  <div><a href="#">Select</a></div>
+
+
+ 
+
+  <br/>
+  <div><a href="#">فایل های CSV</a></div>
+
+
+  <br/>
+  <div><a href="#">خواندن فایل های CSV</a></div>
+
+
+  
+ <br/>
+  <div><a href="#">Windows Forms - مقدمه</a></div>
+
+
+  <br/>
+  <div><a href="#">اولین اپلیکیشن Windows Forms</a></div>
+
+
+  <br/>
+  <div><a href="#">آشنایی با فایل های Windows Forms</a></div>
+
+
+  <br/>
+  <div><a href="#">رویدادها در Windows Forms</a></div>
+
+
+  <br/>
+  <div><a href="#">Windows Forms - عناصر اولیه رابط کاربری</a></div>
 
 
  
