@@ -35,7 +35,7 @@
 
   
   <br/>
-  <div><a href="#">قسمت 4.2 : دستورات شرطی و کنترلی</a></div>
+  <div>✅<a href="https://youtu.be/QQDlOi-QIfE?si=DyZNut4GbSGQm5AV">قسمت 4.2 : دستورات شرطی چطوری کار میکنن</a></div>
 
   <br/>
   <div><a href="#">قسمت 4.2.1 : دستورات شرطی کنترلی معرفی if</a></div>
