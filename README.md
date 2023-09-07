@@ -38,7 +38,7 @@
   <div>✅<a href="https://youtu.be/QQDlOi-QIfE?si=DyZNut4GbSGQm5AV">قسمت 4.2 : دستورات شرطی چطوری کار میکنن</a></div>
 
   <br/>
-  <div>✅<a href="#">ابزار شناسی : آموزش ویرژوال استودیو بخش 1</a></div>
+  <div>✅<a href="https://youtu.be/EOKjgvxH0ew">ابزار شناسی : آموزش ویرژوال استودیو بخش 1</a></div>
 
   <br/>
   <div><a href="#">ابزار شناسی : آموزش ویرژوال استودیو بخش 2</a></div>
